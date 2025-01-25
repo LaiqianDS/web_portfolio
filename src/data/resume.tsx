@@ -162,20 +162,20 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "Cajamar University Hack",
-      dates: "October 2024",
+      title: "Advent of Code",
+      dates: "December",
       location: "Remote",
       description:
-        "Develop a predictive model to predict the concentration of a chemical product.",
+        "Competitive programming event that takes place every December. It consists of a series of programming puzzles that can be solved in any programming language.",
       image:
-        "/public/universityHack.svg",
-      // links: [
-      //   {
-      //     title: "Source",
-      //     icon: <Icons.github className="h-4 w-4" />,
-      //     href: "https://github.com/UWPortalSDK/crowmark",
-      //   },
-      // ],
+        "/public/aoc.png",
+      links: [
+        {
+          title: "Source",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/LaiqianDS/AoC",
+        },
+      ],
     },
   ],
 } as const;
