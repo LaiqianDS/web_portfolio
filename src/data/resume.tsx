@@ -130,9 +130,9 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://www.rpsgroup.com/imported-media/2484/air-quality-1600x1000.jpg?width=830&height=533&quality=90",
+      image: "",
       video:
-        "",
+        "https://media4.giphy.com/media/b5xDLakZRxJ6M/giphy.gif?cid=6c09b95293ryx1gfthi18ywzim93wbye1a93b0a0cga34xti&ep=v1_gifs_search&rid=giphy.gif&ct=g",
     },
     {
       title: "Valencia Transport Analysis",
@@ -156,8 +156,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://offloadmedia.feverup.com/valenciasecreta.com/wp-content/uploads/2022/05/05063605/DSC06895-1.jpg",
-      video: "",
+      image: "",
+      video: "https://media4.giphy.com/media/xT9KVuOrJRZ6jgIPsI/200.gif?cid=6c09b952yywlyvvny2th1mo9tffrayhlhzs72emsgytjv1ux&ep=v1_gifs_search&rid=200.gif&ct=g",
     },
   ],
   hackathons: [
@@ -168,7 +168,7 @@ export const DATA = {
       description:
         "Competitive programming event that takes place every December. It consists of a series of programming puzzles that can be solved in any programming language.",
       image:
-        "https://cs.fs.uni-saarland.de/wp-content/uploads/2022/11/AoC.jpg",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAh1BMVEUKDiUAACRKTzJZXDMAACPU1E3//1UJDSX29lPc3U0AACYGCyXj407q60///1gbHioACCQABCTw8VApKytwdDcrLisAACEyNiwcISn//1lvcjc+QC1fYjTIyko2Oy5najS4ukawsUV+fjoTFyjCw0hOUjCBhDuTlj9CRi7P0UqHiTujpEKpqkPpujvYAAABAUlEQVR4AYyQBZbDMAxEre1EdkiBMnOD979eGUNv54HhC0f9X0Qd7K/XTmExdAvTsAy1Q9s4bhskz7jt0JcgVBUhesKY+49rCP1KGAxHcPX1YngMpVwaBYPoQcPJlK2ZA0RXOCcCLZYsKzwy1XrJU7NZK9zgYhuLWLu9+6wLzDdGJN4a3vgscjgC7tecmJxs4avET4aoWhEBR8Ns1kDU4BJ2LFNJRqpB0d5IshNOqcGeUSY2YSMe6g4iFzOkSPlSQFVEY8MzKIUjc69CXViyufuJRDz6LYzk1Usjk/JnYprze0qaxLKgb7jgHO8qa9nhJ3VC+uPlpDJR+GWZDtVllAIAMI8OXQ0/hTAAAAAASUVORK5CYII=",
       links: [
         {
           title: "Source",
