@@ -130,7 +130,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/public/airquality.jpg",
+      image: "https://www.rpsgroup.com/imported-media/2484/air-quality-1600x1000.jpg?width=830&height=533&quality=90",
       video:
         "",
     },
@@ -156,7 +156,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/public/public_transport.jpg",
+      image: "https://offloadmedia.feverup.com/valenciasecreta.com/wp-content/uploads/2022/05/05063605/DSC06895-1.jpg",
       video: "",
     },
   ],
@@ -168,7 +168,7 @@ export const DATA = {
       description:
         "Competitive programming event that takes place every December. It consists of a series of programming puzzles that can be solved in any programming language.",
       image:
-        "/public/aoc.png",
+        "https://cs.fs.uni-saarland.de/wp-content/uploads/2022/11/AoC.jpg",
       links: [
         {
           title: "Source",

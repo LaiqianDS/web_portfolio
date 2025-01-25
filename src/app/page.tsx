@@ -123,9 +123,8 @@ export default function Page() {
                   Check out my latest work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I&apos;ve worked on a variety of projects, from simple
-                  websites to complex web applications. Here are a few of my
-                  favorites.
+                  I&apos;ve worked on a variety of projects. 
+                  Here are some of them.
                 </p>
               </div>
             </div>
@@ -164,12 +163,8 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  {DATA.hackathons.length}+ hackathons. People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                  During my time in university, I participated in a few
+                  hackathons. Here are some of the projects I worked on.
                 </p>
               </div>
             </div>
@@ -211,10 +206,14 @@ export default function Page() {
                   href={DATA.contact.social.X.url}
                   className="text-blue-500 hover:underline"
                 >
-                  with a direct question on twitter
+                  at Twitter
                 </Link>{" "}
-                and I&apos;ll respond whenever I can. I will ignore all
-                soliciting.
+                or just {" "}
+                <Link
+                  href={`mailto:ji.laiqian@gmail.com`}
+                  className="text-blue-500 hover:underline"
+                > send me an email
+                </Link>
               </p>
             </div>
           </BlurFade>
