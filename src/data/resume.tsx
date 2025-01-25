@@ -130,9 +130,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video:
-        "https://media4.giphy.com/media/b5xDLakZRxJ6M/giphy.gif?cid=6c09b95293ryx1gfthi18ywzim93wbye1a93b0a0cga34xti&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+      image: "/airquality.jpg",
+      video: "",
     },
     {
       title: "Valencia Transport Analysis",
@@ -156,8 +155,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://media4.giphy.com/media/xT9KVuOrJRZ6jgIPsI/200.gif?cid=6c09b952yywlyvvny2th1mo9tffrayhlhzs72emsgytjv1ux&ep=v1_gifs_search&rid=200.gif&ct=g",
+      image: "/public_transport.jpg",
+      video: "",
     },
   ],
   hackathons: [
