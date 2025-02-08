@@ -112,6 +112,29 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Asset Ranking",
+      href: "https://github.com/Zrive/zrive-ds-4q24-asset-ranking",
+      dates: "Dec 2024 - Jan 2025",
+      active: true,
+      description:
+        "Built a classification model in order to create a portfolio of assets (SP500) with the objective of surpassing the index performance.",
+      technologies: [
+        "Python",
+        "Machine Learning",
+        "Scikit-learn",
+        "LightGBM",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Zrive/zrive-ds-4q24-asset-ranking",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/stockmarket.jpg",
+      video: "",
+    },
+    {
       title: "Air Quality Analysis",
       href: "https://github.com/LaiqianDS/Proyecto_CalidadDelAireUPV",
       dates: "January 2023 - May 2023",
