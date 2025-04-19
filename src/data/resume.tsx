@@ -184,8 +184,104 @@ export const DATA = {
   ],
   hackathons: [
     {
+      title: "Mercadona Hackathon",
+      dates: "April 2025",
+      location: "Valencia, Spain",
+      description:
+        "Hackathon organized by Mercadona. The objective was to improve customer experience with AI. We built an extension of Mercadona's app that could help the user to identify any recipe they scan and directly obtain the ingredients of Mercadona and the steps to follow. The project was developed in Python and Angular. We were awarded the 1st place in the event.",
+      image:
+        "https://yt3.googleusercontent.com/ZrOQvWBGq2XrPuAzhwJp-UNjAEsHlfCBPN-8QCzsY9zjPrXRWW0IS4D6wK6KiP1SIGU6_2wqnw=s900-c-k-c0x00ffffff-no-rj",
+      links: [
+        {
+          title: "Source",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://www.linkedin.com/posts/mercadona_mercadonait-belimitless-activity-7318205733160820736-QQgx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtkPp4BOFUG3FTwA9191YvBD1SapcYcN8A",
+        },
+      ],
+    },
+    {
+      title: "Cajamar University Hack",
+      dates: "September-October 2024",
+      location: "Remote",
+      description:
+        "Data Science Hackathon organized by Cajamar. The hackathon focused on predicting the concentration of a certain product in a mixture. ",
+      image:
+        "https://www.cajamardatalab.com/datathon-cajamar-universityhack/assets/images/logo-uh.png",
+      links: [
+        {
+          title: "Post",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/posts/etsinfupv_universityhack-activity-7220016014841831424-NoCE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtkPp4BOFUG3FTwA9191YvBD1SapcYcN8A",
+        },
+      ],
+    },
+    {
+      title: "Regional Ada Byron Programming Challenge",
+      dates: "March 2024",
+      location: "Valencia, Spain",
+      description:
+        "Ada Byron is a national programming challenge that consists of a series of algorithmic problems that can be solved in a limited time frame. I participated in the regional challenge, which was held in Valencia. Our team, Python Pals finished in 10th place.",
+      image:
+        "https://escuelapolitecnica.uah.es/export/sites/politecnica/es/.galleries/imagenes-noticias/AdaByron.jpg_1751553635.jpg",
+      links: [
+        {
+          title: "Post",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/posts/cp-upv_muy-buenos-resultados-en-esta-edici%C3%B3n-del-ugcPost-7167661798274412544-vmx2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtkPp4BOFUG3FTwA9191YvBD1SapcYcN8A",
+        },
+      ],
+    },
+    {
+      title: "CP-UPV Saint Valentine's Programming Challenge",
+      dates: "February 2024",
+      location: "Valencia, Spain",
+      description:
+        "Participated in the CP-UPV Saint Valentine's Programming Challenge, a competitive programming event organized by Competitive-Programming UPV. The event focused on solving algorithmic problems in a limited time frame. My was awarded the 2nd place in the event.",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Zlmiv4jkx1BfnhCiqnD4gh4Nly6fTJAp7A&s",
+      links: [
+        {
+          title: "Post",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/posts/jilaiqian_valentines-day-was-an-absolute-blast-activity-7165335051251900416-iVxQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtkPp4BOFUG3FTwA9191YvBD1SapcYcN8A",
+        },
+      ],
+    },
+    {
+      title: "Gennera 5U 4th Edition",
+      dates: "September 2023",
+      location: "Valencia, Spain",
+      description:
+        "Gennera 5U is a hackathon for university students in Valencia. The hackathon focused on solving real-world problems that some of the partner companies had. We worked on a project that aimed to enhance the productivity of building a road between two points. We designed a system that could reduce the time of the heating process of the asphalt. Our team was awarded the 1st place.",
+      image:
+        "https://espaitec.uji.es/wp-content/uploads/2017/07/Captura-de-pantalla-2017-07-28-a-las-11.19.53.png",
+      links: [
+        {
+          title: "Post",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "hhttps://www.linkedin.com/posts/ideas-upv_ideasupv-ugcPost-7113527135079718914-u4z8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtkPp4BOFUG3FTwA9191YvBD1SapcYcN8A",
+        },
+      ],
+    },
+    {
+      title: "Ideas UPV Challenge XIII Edition",
+      dates: "Jule 2023",
+      location: "Valencia, Spain",
+      description:
+        "Participated in the Ideas UPV Challenge XIII Edition, a hackathon organized by the Universitat Politècnica de Valencia. The event focused on developing innovative solutions to real-world problems. We worked on a project that aimed to ease every burocratic process in the university with the use of LLMs. Our team was awarded the 3nd place in the event, and we received a prize of 500 euros.",
+      image:
+        "https://www.upv.es/entidades/ideas/wp-content/uploads/2020/03/logo-IDEASUPV-vertical_1-e1585751170318.png",
+      links: [
+        {
+          title: "Post",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/posts/ideas-upv_entrega-premios-challenge-ideas-upv-una-nueva-share-7087031061137829888-5uxM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtkPp4BOFUG3FTwA9191YvBD1SapcYcN8A",
+        },
+      ],
+    },
+    {
       title: "Advent of Code",
-      dates: "December",
+      dates: "Every December",
       location: "Remote",
       description:
         "Competitive programming event that takes place every December. It consists of a series of programming puzzles that can be solved in any programming language.",
