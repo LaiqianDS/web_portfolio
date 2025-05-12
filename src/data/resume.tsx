@@ -77,7 +77,7 @@ export const DATA = {
       start: "May 2024",
       end: "Present",
       description:
-        "As a Facilitator at ALWA, Emprendizaje Social, I have informed and guided over 100 young people in joining the Generación Talento program by Fundació Princesa de Girona between September and December 2024. Additionally, I co-ordinated the Virtual Campus of the Generación Propósito 2024 edition by Fundació Princesa de Girona from May to September 2024. My role required effective time management, social entrepreneurship, and other key skills. \n In my position as Educoach, I mentored four groups of teenagers as part of The Challenge 2024 by Fundación La Caixa in Barcelona. This impactful program, held in May 2024, resulted in one group being awarded a trip to the United States. The role demanded strong project management, time management, and mentoring abilities.",
+        "As a Facilitator at ALWA, Emprendizaje Social, I have informed and guided over 100 young people in joining the Generación Talento program by Fundació Princesa de Girona between September and December 2024. Additionally, I co-ordinated the Virtual Campus of the Generación Propósito 2024 edition by Fundació Princesa de Girona from May to September 2024. My role required effective time management, social entrepreneurship, and other key skills. \n In my position as Educoach in 2024 and again in 2025, I mentored 10 groups of teenagers as part of The Challenge by Fundación La Caixa in Barcelona. This impactful program, held in May, resulted in many groups being awarded a trip to the United States. The role demanded strong project management, time management, and mentoring abilities.",
     },
     {
       company: "Smarktek",
